@@ -119,6 +119,27 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 h1, .h1 {
   font-size: calc(1.375rem + 1.5vw);
 }
+
+video {
+width:800px ;
+height: 500px;
+margin-left: 220px;
+
+}
+
+#TheImage p{
+margin-left: 220px;
+}
+
+img.rounded-circle {
+  object-fit: cover;
+}
+
+
+p.Videotext {
+  margin-top: 560px;
+}
+
 @media (min-width: 1200px) {
   h1, .h1 {
     font-size: 2.5rem;
